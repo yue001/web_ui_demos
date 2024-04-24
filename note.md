@@ -15,3 +15,7 @@ test_speakers = [
     './tests/data/ljspeech/wavs/LJ001-0032.wav'
 ]
 ```
+
+
+### 示例样本：
+when we write off the whole system as inevitably corrupt, and when we sit back and blame the leaders we elect without examining our own role in electing them.

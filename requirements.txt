@@ -1,0 +1,6 @@
+gradio==4.25.0
+ipython==8.12.3
+numpy==1.22.0
+torch==2.2.2
+TTS==0.22.0
+TTS==0.22.0

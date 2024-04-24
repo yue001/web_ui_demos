@@ -3,15 +3,12 @@
 ### 环境：
 - Python=3.10
 - coqui-ai=v0.22.0
-- 
+- gradio=4.25.0
 
 ### Coqui TTS GitHub：
 - https://github.com/coqui-ai/TTS/tree/v0.22.0
 ### Coqui TTS 官网：
 - https://docs.coqui.ai/en/latest/models/tortoise.html
-
-### 示例样本：
-when we write off the whole system as inevitably corrupt, and when we sit back and blame the leaders we elect without examining our own role in electing them.
 
 ### en models list: // 项目需要只选择纯英语模型
 ```angular2html
